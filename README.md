@@ -9,7 +9,9 @@ Welcome to the assignment submission page for *CMPE 255: Data Mining*. Below are
 
 In this assignment, I cover Python fundamentals in a single comprehensive project.
 
-[Assignment 1 GitHub Repository](#)
+[Assignment 1 Par1](https://github.com/Mohib1402/HW1CMPE255/blob/main/Ass1Part1.ipynb)
+[Assignment 1 Par2](https://github.com/Mohib1402/HW1CMPE255/blob/main/Ass1Part1.ipynb)
+
 
 ---
 
