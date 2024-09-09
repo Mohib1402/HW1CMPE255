@@ -31,7 +31,8 @@ Video demonstration for this assignment will be updated soon.
 In this assignment, I created one predictive model using *Auto ML with Akkio*:
 
 1. *Employee Attrition Prediction Model*
-   [Employee Attrition Prediction Model](https://app.akkio.com/deployments/184166ce-787b-4fb5-ad6b-81556ceb182e)
+   [Employee Attrition Prediction Model]
+   (https://app.akkio.com/deployments/184166ce-787b-4fb5-ad6b-81556ceb182e)
 
 
 ### How to Access the Models
