@@ -22,7 +22,7 @@ For this assignment, I developed a *Speech to Text Transcript Generator* using *
 [Assignment 2 GitHub Repository](#)
 
 Video demonstration for this assignment will be updated soon.  
-[Pair Demo](#)
+[AI Pair Programmer Demo](https://www.youtube.com/watch?v=MGiCrGRhoXM)
 
 ---
 
@@ -34,7 +34,7 @@ In this assignment, I created one predictive model using *Auto ML with Akkio*:
    [Employee Attrition Prediction Model]
    (https://app.akkio.com/deployments/184166ce-787b-4fb5-ad6b-81556ceb182e)
 
-[Akkio Demo](#)
+[Akkio Demo](https://www.youtube.com/watch?v=H0A6ltMp434)
 
 ### How to Access the Models
 
